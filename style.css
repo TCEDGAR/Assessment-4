@@ -1,0 +1,21 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.banner {
+    width: 960px;
+    height: 275px;
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+}
+
+.nav-links a {
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: darkblue;
+}
